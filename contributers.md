@@ -3,4 +3,6 @@
 
 |Suyash|Skr-suyash|IIIT Allahabad|
 
+|Vishal|Cosmic-Viz|IIIT Allahabad|
+
 
